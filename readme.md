@@ -1,5 +1,5 @@
 # Google Maps Data Extractor
-    This Python program extracts data from Google Maps and Google search results, providing information about local businesses and organic search rankings. It utilizes the SerpApi library to interact with the Google search engine.
+This Python program extracts data from Google Maps and Google search results, providing information about local businesses and organic search rankings. It utilizes the SerpApi library to interact with the Google search engine.
 
 ## Features
 - Map Pack Scraper: Scrapes data from the map pack section of Google search results, including business name, address, phone number, website, rating, and more.
