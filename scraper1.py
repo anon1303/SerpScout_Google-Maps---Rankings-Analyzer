@@ -13,8 +13,7 @@ from serpapi import GoogleSearch
 
 class GMapExtractor:
     def __init__(self):
-
-        self.api_key = "YOUR GOOGLE API KEY"
+        self.api_key = "YOUR SerpApi GOOGLE search API KEY"
         
     # Method to compare review count
     def compare_review(self, row):
